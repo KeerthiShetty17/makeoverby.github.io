@@ -1,0 +1,117 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/1brimcompany-1024x10241.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 757px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 549px;
+  width: 570px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/1brimcompany-1024x1024.jpg");
+  background-position: 50% 0%;
+  animation-duration: 1000ms;
+  margin: 148px 20px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 40px 70px 40px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: none;
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 111px -37px 0 38px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 38px auto 0 98px;
+  padding: 14px 49px 15px 47px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 554px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 426px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    background-position: 24.88% 44.66%;
+    background-size: auto 120%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 371px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 383px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 15.14% 71.85%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 757px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 405px;
+    background-position: 0% 0%;
+    width: 375px;
+    margin-top: 232px;
+    margin-left: -17px;
+    margin-right: -17px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.375rem;
+    width: auto;
+    margin-top: 96px;
+    margin-right: -38px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 38px;
+  }
+}
